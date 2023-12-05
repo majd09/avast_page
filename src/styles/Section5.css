@@ -1,0 +1,28 @@
+.Section5P1
+{
+    text-align: justify;
+    text-align: center;
+    font-size:16px ;
+   
+}
+
+
+
+.Section5Div
+{
+    margin-left: 30%;
+    width: 40%;
+    border: 3px solid white;
+    text-align: justify;
+    font-size: 14px;
+}
+
+.Footer
+
+    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    
+    }

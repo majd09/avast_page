@@ -1,0 +1,54 @@
+ .htwo
+ {
+    font-size: 30px;
+text-align: center;
+
+}
+
+.categories-container{
+    display: grid;
+    grid-template-columns:repeat(auto-fill,minmax(304px,1fr));
+    justify-content: center;
+    margin: 0 30%;
+}
+
+
+.category-card{
+    margin: 15px;
+    
+    min-width: 300px;
+    
+    
+    height: 560px;
+    border:1px solid rgb(165, 158, 158);
+    border-radius: 62px;
+    display:grid;
+}
+    
+
+   
+    
+.image
+{
+    
+width: 90%;
+height: 90px;
+margin-top: 40px;
+    margin-left: 15px;
+
+}
+
+
+.text{
+    text-align: center;
+    margin: 15px;
+    font-size: 15px;
+color: rgb(122, 122, 122);
+}
+
+.Category-header
+{
+
+text-align: center;
+
+}

@@ -1,0 +1,23 @@
+
+.small{   
+    padding: 5px;
+    color: aliceblue; 
+    border-radius: 62px;
+    border: 1px solid #1589FF;
+    background-color: #1589FF;
+    width: 180px;
+    height: 40px;
+    
+}
+
+.large{   
+    padding: 5px;
+    color: aliceblue; 
+    border-radius: 62px;
+    border: 1px solid #1589FF;
+    background-color: #1589FF;
+    width: 180px;
+    height: 50px;
+    
+}
+

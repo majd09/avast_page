@@ -1,0 +1,57 @@
+.Section2Header
+ {
+    font-size: 25px;
+    text-align: center;
+}
+
+
+
+ .Section2Photo
+  { 
+    padding: 4px;
+     border: 1px solid orchid;
+     border-radius: 46px;
+     width:30px;
+  }
+
+  .grid{
+    display: grid;
+    place-items: center;
+  }
+
+  .div-footer{
+    margin-top: 20px;
+  }
+  .grayStyle{
+    font-size: 20px;
+    color:rgb(151, 151, 151)
+  }
+
+.Section2Div{
+    display: flex;
+    width:500px;
+    height: 70px;
+    border: 1px solid orchid;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(252, 219, 251);
+    border-radius: 63px;
+
+}
+
+@media (max-width:500px){
+
+.smallButton
+
+{
+display: block;
+white-space: wrap;
+}
+
+
+}
+  
+
+
+
+

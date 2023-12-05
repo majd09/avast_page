@@ -1,0 +1,52 @@
+.div-container
+{
+    border: 2px solid rgb(230, 107, 182);
+    width: 42%;
+    margin-top: 40px;
+    margin-left: 30%;
+    border-radius: 50px;
+    height: 530px;
+    background-color:rgb(250, 213, 244);
+    ;
+}
+
+.virtical-div-container
+{
+    margin-top: 40px;
+display: flex;
+align-items:center;
+justify-content: space-around;
+flex-direction: column;
+font-size: 1 vw;
+
+}
+
+.horizontal-div-container
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.avast
+{
+    border: 1px solid red;
+}
+
+
+    .icon
+    
+    {
+        width: 30px ;
+        padding: 5px;
+
+    }
+    .paragraph3
+    
+{
+padding: 10px;
+
+}
+

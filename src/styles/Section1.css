@@ -1,0 +1,22 @@
+ .heroImg  {
+
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    }
+   
+
+  
+    .headerText{
+        text-align: center;
+        font-size: 3vw;
+    }
+    
+    .paragraph_One
+    {
+        text-align: center;
+        font-size: 2vw;
+    }
+    
